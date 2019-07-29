@@ -1,2 +1,4 @@
-# notes_of_learn_invest
+## notes_of_learn_invest
 学习投资笔记
+
+主要是写学习股票投资相关笔记。经过近几年的了解，认为投资理财能力是一项十分重要的能力。
